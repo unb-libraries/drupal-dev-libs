@@ -1,5 +1,5 @@
 {
-  "name": "unblibraries/drupal-dev-libs",
+  "name": "unb-libraries/drupal-dev-libs",
   "description": "Libraries for developing drupal instances",
   "type": "library",
   "require": {
